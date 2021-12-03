@@ -1,0 +1,8 @@
+C:\Users\pb\source\repos\pb-web-api-server\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\pb\source\repos\pb-web-api-server\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\pb\source\repos\pb-web-api-server\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\pb\source\repos\pb-web-api-server\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\pb\source\repos\pb-web-api-server\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\pb\source\repos\pb-web-api-server\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\pb\source\repos\pb-web-api-server\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\pb\source\repos\pb-web-api-server\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

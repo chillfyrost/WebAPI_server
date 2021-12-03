@@ -1,0 +1,14 @@
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\pb\source\repos\pb-web-api-server\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\pb\source\repos\pb-web-api-server\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
